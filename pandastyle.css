@@ -9,3 +9,9 @@ img{
 body{
     font-family: Arial;
 }
+.column{
+    width: 600px;
+    margin: 40px auto;
+}
+
+
