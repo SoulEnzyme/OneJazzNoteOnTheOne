@@ -1,5 +1,5 @@
 body{
-    background-color: rgb(12, 148, 91);
+    background-color: rgb(124, 219, 179);
 }
 
 img{
@@ -15,4 +15,7 @@ body{
     margin: 40px auto;
 }
 
+hi{
+    text-align: center;
+}
 
