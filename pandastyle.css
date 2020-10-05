@@ -13,6 +13,7 @@ body{
 .column{
     width: 600px;
     margin: 40px auto;
+    border: solid 10px burlywood;
 }
 
 
