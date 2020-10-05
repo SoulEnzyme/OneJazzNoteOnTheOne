@@ -1,5 +1,6 @@
 body{
     background-color: rgb(12, 148, 91);
+    
 }
 
 img{
@@ -15,6 +16,10 @@ body{
     margin: 40px auto;
     border: dotted 10px burlywood;
     padding: 20px;
+   
+}
+p{
+    border: solid 5px royalblue;
 }
 
 
