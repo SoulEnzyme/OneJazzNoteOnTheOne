@@ -13,6 +13,8 @@ body{
 .column{
     width: 600px;
     margin: 40px auto;
+    background-color: white;
+    padding: 1px 40px 40px 40px
 }
 
 hi{
